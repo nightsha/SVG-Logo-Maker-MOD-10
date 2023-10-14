@@ -1,5 +1,8 @@
 # SVG-Logo-Maker-MOD-10
 A logo generator using SVG
+# Examples Folder
+// This folder contains example SVG files created with the app.
+
 <!-- 
 It seems like you have a project directory structure for an Object-oriented programming challenge that involves creating an SVG Logo maker. While the provided structure is quite detailed, here are some additional details you might consider including in your project:
 
