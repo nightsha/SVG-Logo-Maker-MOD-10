@@ -1,4 +1,4 @@
-{}
+ { 
     "name": "07-stu_first-mock",
     "version": "1.0.0",
     "description": "",
@@ -8,10 +8,9 @@
     },
     "jest": {
       "transform": {
-        "^.+\\.js$": "babel-jest"
+        "^.+\\.js$^": "babel-jest"
       }
-    }
-    {
+    },
     "author": "",
     "license": "ISC",
     "devDependencies": {
@@ -21,3 +20,4 @@
         "jest": "^24.9.0"
     }
 }
+
