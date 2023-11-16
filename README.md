@@ -7,3 +7,5 @@ Help in this project was rendered by chatGPT to get started as well as my tutor 
 
 
 <!-- video using freelogo.me -->https://drive.google.com/file/d/1sGoBZpsOmXawnfVWsZPpWRP5IfcJJvkv/view
+
+<!-- gitHub repository link -->https://github.com/nightsha/SVG-Logo-Maker-MOD-10.git
